@@ -37,7 +37,7 @@ lib/android/src/main/gen
 example/android/app/src/main/gen
 
 # build
-react-native-fast-image-*.tgz
+#react-native-fast-image-*.tgz
 dist/
 
 # coverage reports
